@@ -3,3 +3,8 @@ matplotlib
 seaborn
 joblib
 scipy
+scikit-learn
+xgboost
+pandas
+numpy
+streamlit
